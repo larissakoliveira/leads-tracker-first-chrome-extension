@@ -1,5 +1,5 @@
 # Leads-tracker
-![image](https://user-images.githubusercontent.com/82476805/179831903-9f2a8bb0-41e4-4032-9a09-58c2cd793da0.png)
+![image](https://user-images.githubusercontent.com/82476805/183395607-537f6a43-2b03-4af9-a8da-6b793b807a72.png)
 
 
 
